@@ -1,0 +1,14 @@
+#case
+{
+    height: 100px;
+}
+#image
+{
+    height: 200px;
+    border: 3px;
+    border-style: dashed;
+    border-color: darkred;
+}
+body{
+    background-color: lightseagreen;
+}
